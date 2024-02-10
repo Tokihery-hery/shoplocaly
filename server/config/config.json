@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "odoo",
+    "password": "odoo",
+    "database": "ioschool",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "odoo",
+    "password": "odoo",
+    "database": "ioschool",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "odoo",
+    "password": "odoo",
+    "database": "ioschool",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
